@@ -1,0 +1,16 @@
+recID;sectionID;animalID;phenotype;x_centre;y_centre;mask_threshold;Anterior cingulate;Motor;Somatosensory;Thalamus
+830;3;20-MI13812-01;wt;129;90;0.1;23,no;11,no;17,13,yes,yes;24,yes
+890;3;20-MI13812-01;wt;145;105;0.2;17,yes;13,yes;12,23,no,yes;10,yes
+1002;3;20-MI14269-04;hom;124;87;0.15;11,no;11,no;16,21,13,no,yes,yes;1,no
+1181;3;20-MI10570-05;wt;136;106;0.15;15,yes;8,no;8,no;
+1033;3;20-MI14190-01;wt;136;87;0.15;24,yes;12,no;12,no;
+1124;3;20-MI16625-01;hom;134;85;0.25;11,yes;11,yes;0,16,no,yes;
+959;4;20-MI14269-01;wt;117;85;0.2;15,no;15,no;23,11,12,no,yes,yes;14,yes
+959;6;20-MI14269-01;wt;117;85;0.15;12,no;4,yes;1,16,yes,yes;24,yes
+1102;1;20-MI17304-03;hom;130;84;0.15;7,yes;24,yes;10,23,4,no,no,no;21,yes
+1105;1;20-MI17304-03;hom;122;77;0.2;14,yes;13,6,yes,yes;19,7,11,no,no,no;10,yes
+1181;1;20-MI10570-05;wt;137;105;0.15;11,no;4,no;4,no;
+1124;1;20-MI16625-01;hom;133;86;0.2;19,no;18,no;3,no;
+1184;1;20-MI17306-08;hom;132;98;0.15;14,yes;8,17,no,yes;12,yes;1,no
+1033;2;20-MI14190-01;wt;136;87;0.15;7,no;7,no;18,yes;
+1181;23;20-MI10570-05;wt;137;106;0.15;3,yes;6,no;6,no;
