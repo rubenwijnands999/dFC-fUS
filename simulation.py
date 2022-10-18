@@ -912,7 +912,8 @@ if __name__=="__main__":
         # a.convergence(alg='LASSO',times=9,runs=5,length=720)
         # a.plot_convergence()
 
-        # Simulations.
+        # Simulations. Note: it is possible that the correction functional networks are not always learned.
+        # However, the correct functional networks are learned the most often.
         #a.single_run(algorithm="NNLS",noise_std=0.1, seed=True)
         #a.single_run(algorithm="NNLS", noise_std=0.3, seed=True)
         # a.single_run(algorithm="NNLS", noise_std=0.5, seed=True)
