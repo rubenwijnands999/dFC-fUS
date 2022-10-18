@@ -22,13 +22,16 @@ subsequently run ```tutorial.py```. Note: you need full access to all data for r
 For creating simulations, modify and run the ```simulations.py``` script.
 
 ## Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the software. Run the following commands:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the software. Run the following commands within
+a virtual environment:
 
 ```bash
 git clone https://github.com/rubenwijnands999/dFC-fUS
 cd dFC-fUS
 pip install .
 ```
+Note: cloning might take a while due to a large example data set included.
+
 ## Compatibility
 Software was tested on MacOS Monterey 12.2.1 with Python 3.7.
 

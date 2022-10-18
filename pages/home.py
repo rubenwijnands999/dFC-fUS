@@ -34,7 +34,7 @@ layout = html.Div([
             dbc.Col(dbc.Card(children=[html.H3(children='Access the code',
                                                className="text-center"),
                                        dbc.Button("GitHub",
-                                                  href="https://github.com/rubenwijnands999/DFC_fUS",
+                                                  href="https://github.com/rubenwijnands999/dFC-fUS",
                                                   color="primary",
                                                   className="mt-3"),
                                        ],class_name="text-center",
