@@ -18,11 +18,7 @@ All scripts share settings in the ```configurations.ini``` file.
 To run the entire pipeline, you should insert your settings in the ```configurations.ini``` file and 
 subsequently run ```tutorial.py```. Note: you need full access to all data for running the entire pipeline.
 
-
-
-[run_app.py usage](https://user-images.githubusercontent.com/44965015/197479819-e0eda5ce-8d22-4e6c-be69-1084ad5dbabb.mov)
-
-
+https://user-images.githubusercontent.com/44965015/197480389-a796d2af-2b45-43df-8f01-5ce01a9572e6.mov
 
 ### Simulations
 For creating simulations, modify and run the ```simulations.py``` script.
